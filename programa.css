@@ -4,30 +4,38 @@ body {
         }
 
     
-
-    
-
-
-
-body{
-   h1 
-   {background-color: red;}
-    
+footer{
+   background-color: white;
 
 }
+
+        header{
+         background-color: white;
+        }
+        main{
+         background-color: white;
+
+        }
+   h1 
+   {background-color: black;
+   color: white;
+   
+   }
+
+    
+
+
 
 body
 {
    h2{font-size: 30px;
 font-family: sans-serif;
-background-color: red;}
+background-color: black;
+color: white;}
    }
 
-   .p1{font-size:20px ;}
+   
 
-   body{
-      h1 {text-align:center}
-      h2 {text-align:center}
-
-
-   }
+   .p1{font-size: 17px;}
+   .p2{font-size: 17px;}
+   .p3{font-size: 17px;}
